@@ -1,6 +1,6 @@
 all:
 	gcc -c .\ListaSequencialEstatica.c 
-	gcc -c .\Principal.c -o .\Principal
+	gcc -c .\Main.c -o .\Main
 
 run:
 	echo "Hello"
